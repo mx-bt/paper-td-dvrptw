@@ -1,0 +1,107 @@
+Objective: 8722.8
+Route for vehicle 0:
+0 Time(0,0) -> 85 Time(180,183) -> 92 Time(204,207) -> 11 Time(226,229) -> 156 Time(251,254) -> 159 Time(277,280) -> 229 Time(300,300) -> 155 Time(322,322) -> 110 Time(345,345) -> 274 Time(368,368) -> 270 Time(390,390) -> 221 Time(418,418) -> 0 Time(441,441)
+Time of the route: 4418min
+
+Route for vehicle 1:
+0 Time(0,0) -> 25 Time(120,130) -> 27 Time(137,148) -> 24 Time(155,165) -> 21 Time(173,183) -> 26 Time(191,201) -> 22 Time(210,220) -> 17 Time(229,240) -> 78 Time(252,270) -> 177 Time(300,300) -> 176 Time(317,317) -> 102 Time(342,342) -> 212 Time(365,365) -> 272 Time(393,393) -> 255 Time(416,416) -> 214 Time(436,436) -> 0 Time(469,469)
+Time of the route: 4696min
+
+Route for vehicle 2:
+0 Time(0,0) -> 104 Time(180,204) -> 66 Time(201,226) -> 67 Time(222,247) -> 147 Time(242,266) -> 103 Time(264,288) -> 146 Time(287,311) -> 175 Time(313,338) -> 271 Time(360,360) -> 254 Time(391,391) -> 258 Time(419,419) -> 216 Time(442,442) -> 0 Time(475,475)
+Time of the route: 4752min
+
+Route for vehicle 3:
+0 Time(0,0) -> 119 Time(180,180) -> 50 Time(239,239) -> 118 Time(267,267) -> 239 Time(313,313) -> 100 Time(407,407) -> 0 Time(440,440)
+Time of the route: 4400min
+
+Route for vehicle 4:
+0 Time(0,0) -> 1 Time(27,60) -> 82 Time(180,218) -> 161 Time(240,240) -> 80 Time(261,261) -> 84 Time(285,285) -> 160 Time(311,311) -> 114 Time(335,335) -> 162 Time(354,354) -> 263 Time(376,376) -> 231 Time(401,401) -> 261 Time(430,430) -> 259 Time(456,456) -> 0 Time(480,480)
+Time of the route: 4800min
+
+Route for vehicle 5:
+0 Time(0,0) -> 71 Time(150,150) -> 70 Time(178,178) -> 59 Time(203,203) -> 107 Time(230,230) -> 158 Time(257,257) -> 76 Time(278,278) -> 224 Time(306,306) -> 153 Time(330,330) -> 178 Time(355,355) -> 111 Time(376,376) -> 225 Time(396,396) -> 0 Time(419,419)
+Time of the route: 4198min
+
+Route for vehicle 6:
+0 Time(0,0) -> 105 Time(180,218) -> 150 Time(240,240) -> 149 Time(257,257) -> 151 Time(285,285) -> 127 Time(319,319) -> 245 Time(339,339) -> 244 Time(363,363) -> 186 Time(397,397) -> 241 Time(419,419) -> 0 Time(479,479)
+Time of the route: 4794min
+
+Route for vehicle 7:
+0 Time(0,0) -> 63 Time(120,192) -> 143 Time(210,216) -> 56 Time(233,240) -> 137 Time(259,270) -> 195 Time(300,300) -> 179 Time(347,347) -> 183 Time(373,373) -> 184 Time(402,402) -> 0 Time(454,454)
+Time of the route: 4542min
+
+Route for vehicle 8:
+0 Time(0,0) -> 135 Time(210,210) -> 52 Time(233,233) -> 97 Time(258,258) -> 123 Time(282,282) -> 122 Time(317,317) -> 180 Time(339,339) -> 181 Time(359,359) -> 120 Time(386,386) -> 182 Time(412,412) -> 0 Time(463,463)
+Time of the route: 4632min
+
+Route for vehicle 9:
+0 Time(0,0) -> 10 Time(120,131) -> 9 Time(139,151) -> 12 Time(166,178) -> 90 Time(192,203) -> 31 Time(218,229) -> 167 Time(240,250) -> 168 Time(260,271) -> 234 Time(300,300) -> 165 Time(327,327) -> 230 Time(354,354) -> 264 Time(383,383) -> 266 Time(412,412) -> 223 Time(446,446) -> 0 Time(475,475)
+Time of the route: 4758min
+
+Route for vehicle 10:
+0 Time(0,0) -> 4 Time(41,114) -> 28 Time(120,141) -> 16 Time(140,162) -> 89 Time(180,184) -> 23 Time(200,205) -> 33 Time(235,240) -> 169 Time(259,274) -> 226 Time(300,311) -> 227 Time(317,329) -> 257 Time(360,360) -> 215 Time(378,378) -> 217 Time(399,399) -> 220 Time(419,419) -> 0 Time(471,471)
+Time of the route: 4712min
+
+Route for vehicle 11:
+0 Time(0,0) -> 20 Time(120,120) -> 19 Time(137,137) -> 32 Time(165,165) -> 93 Time(185,185) -> 29 Time(207,207) -> 2 Time(229,229) -> 86 Time(248,248) -> 163 Time(269,269) -> 87 Time(292,292) -> 164 Time(313,313) -> 166 Time(338,338) -> 267 Time(362,362) -> 278 Time(387,387) -> 280 Time(419,419) -> 232 Time(446,446) -> 0 Time(473,473)
+Time of the route: 4730min
+
+Route for vehicle 12:
+0 Time(0,0) -> 3 Time(31,59) -> 8 Time(60,81) -> 5 Time(77,99) -> 7 Time(95,117) -> 6 Time(113,135) -> 46 Time(141,162) -> 58 Time(173,194) -> 57 Time(193,215) -> 55 Time(216,238) -> 130 Time(248,270) -> 197 Time(300,300) -> 191 Time(331,331) -> 193 Time(361,361) -> 205 Time(390,390) -> 260 Time(432,432) -> 0 Time(476,476)
+Time of the route: 4760min
+
+Route for vehicle 14:
+0 Time(0,0) -> 34 Time(120,148) -> 39 Time(140,168) -> 38 Time(158,186) -> 40 Time(176,204) -> 37 Time(194,222) -> 36 Time(212,240) -> 236 Time(300,300) -> 94 Time(325,325) -> 235 Time(347,347) -> 115 Time(371,371) -> 268 Time(391,391) -> 265 Time(413,413) -> 0 Time(441,441)
+Time of the route: 4418min
+
+Route for vehicle 15:
+0 Time(0,0) -> 47 Time(120,127) -> 30 Time(137,144) -> 48 Time(170,177) -> 35 Time(192,199) -> 41 Time(226,233) -> 171 Time(270,270) -> 238 Time(300,300) -> 95 Time(322,322) -> 170 Time(344,344) -> 237 Time(364,364) -> 117 Time(394,394) -> 116 Time(415,415) -> 269 Time(439,439) -> 0 Time(475,475)
+Time of the route: 4754min
+
+Route for vehicle 16:
+0 Time(0,0) -> 13 Time(120,120) -> 14 Time(140,140) -> 15 Time(158,158) -> 18 Time(177,177) -> 88 Time(195,195) -> 91 Time(220,220) -> 81 Time(244,244) -> 83 Time(265,265) -> 79 Time(285,285) -> 112 Time(319,319) -> 154 Time(341,341) -> 273 Time(363,363) -> 222 Time(389,389) -> 228 Time(417,417) -> 262 Time(441,441) -> 0 Time(479,479)
+Time of the route: 4790min
+
+Route for vehicle 17:
+0 Time(0,0) -> 44 Time(120,160) -> 43 Time(139,180) -> 42 Time(199,240) -> 172 Time(270,277) -> 173 Time(323,331) -> 275 Time(360,360) -> 0 Time(472,472)
+Time of the route: 4728min
+
+Route for vehicle 18:
+0 Time(0,0) -> 68 Time(120,220) -> 148 Time(240,240) -> 145 Time(268,268) -> 141 Time(293,293) -> 138 Time(318,318) -> 125 Time(348,348) -> 248 Time(371,371) -> 249 Time(394,394) -> 253 Time(423,423) -> 0 Time(454,454)
+Time of the route: 4544min
+
+Route for vehicle 19:
+0 Time(0,0) -> 113 Time(180,200) -> 75 Time(199,220) -> 157 Time(240,240) -> 108 Time(265,265) -> 106 Time(284,284) -> 96 Time(324,324) -> 243 Time(346,346) -> 199 Time(370,370) -> 208 Time(393,393) -> 200 Time(416,416) -> 0 Time(479,479)
+Time of the route: 4794min
+
+Route for vehicle 20:
+0 Time(0,0) -> 73 Time(180,195) -> 45 Time(214,230) -> 134 Time(236,252) -> 98 Time(262,278) -> 174 Time(300,300) -> 192 Time(318,318) -> 194 Time(342,342) -> 196 Time(366,366) -> 279 Time(389,389) -> 203 Time(411,411) -> 0 Time(446,446)
+Time of the route: 4468min
+
+Route for vehicle 21:
+0 Time(0,0) -> 77 Time(180,180) -> 74 Time(201,201) -> 72 Time(224,224) -> 109 Time(244,244) -> 140 Time(276,276) -> 210 Time(303,303) -> 198 Time(328,328) -> 190 Time(353,353) -> 124 Time(375,375) -> 207 Time(403,403) -> 211 Time(430,430) -> 0 Time(464,464)
+Time of the route: 4648min
+
+Route for vehicle 22:
+0 Time(0,0) -> 65 Time(120,142) -> 64 Time(140,163) -> 60 Time(164,187) -> 142 Time(210,211) -> 144 Time(230,232) -> 133 Time(263,265) -> 101 Time(284,286) -> 247 Time(315,315) -> 126 Time(337,337) -> 209 Time(360,360) -> 213 Time(392,392) -> 256 Time(418,418) -> 0 Time(444,444)
+Time of the route: 4440min
+
+Route for vehicle 23:
+0 Time(0,0) -> 51 Time(120,169) -> 152 Time(240,246) -> 218 Time(300,300) -> 242 Time(356,356) -> 233 Time(430,430) -> 0 Time(474,474)
+Time of the route: 4744min
+
+Route for vehicle 24:
+0 Time(0,0) -> 61 Time(120,187) -> 62 Time(143,211) -> 53 Time(172,240) -> 132 Time(210,272) -> 131 Time(230,293) -> 206 Time(300,316) -> 99 Time(320,337) -> 251 Time(360,360) -> 250 Time(386,386) -> 252 Time(412,412) -> 276 Time(436,436) -> 0 Time(477,477)
+Time of the route: 4772min
+
+Route for vehicle 25:
+0 Time(0,0) -> 54 Time(120,201) -> 136 Time(210,223) -> 121 Time(258,272) -> 240 Time(300,300) -> 185 Time(333,333) -> 187 Time(367,367) -> 204 Time(401,401) -> 277 Time(444,444) -> 0 Time(475,475)
+Time of the route: 4750min
+
+Route for vehicle 26:
+0 Time(0,0) -> 69 Time(150,162) -> 49 Time(179,192) -> 139 Time(210,217) -> 128 Time(238,246) -> 129 Time(262,270) -> 246 Time(300,300) -> 201 Time(320,320) -> 189 Time(349,349) -> 188 Time(378,378) -> 202 Time(409,409) -> 219 Time(444,444) -> 0 Time(468,468)
+Time of the route: 4688min
+
+Total time of all routes: 12072.999999999998min
+Solution found, K* =  26
